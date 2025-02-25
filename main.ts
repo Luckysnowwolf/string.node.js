@@ -1,5 +1,5 @@
 import {add, subtract}from "./stringUnits.ts"
 
-console.log()
-console.log()
+console.log(add(5, 3))
+console.log(subtract(5, 2))
 console.log()
